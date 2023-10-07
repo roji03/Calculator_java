@@ -5,6 +5,7 @@ This repository contains a simple calculator application written in Java. The ca
 Please ⭐️ this repo and share it with others
 
 # Screenshot
+![Screenshot 2023-10-07 145542](https://github.com/roji03/Calculator_java/assets/123378634/5d41086a-2cf1-4272-8e7b-d904ccf94d56)
 
 # Features 
 Basic arithmetic operations: addition, subtraction, multiplication, and division.

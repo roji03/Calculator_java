@@ -20,7 +20,8 @@ Clear button to reset the input and output fields.
 
 # Installation 🧑‍💻!
 1.Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
-        https://github.com/roji03/Calculator_java.git
+
+             https://github.com/roji03/Calculator_java.git
       
       
 2.Imported it in Intellij IDEA or any other Java IDE

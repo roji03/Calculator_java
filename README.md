@@ -4,6 +4,10 @@ This repository contains a simple calculator application written in Java. The ca
 # Thank you
 Please ⭐️ this repo and share it with others
 
+# Screenshot 
+
+![Screenshot 2023-10-07 145542](https://github.com/roji03/Calculator_java/assets/123378634/b8ee30b0-9cfd-4d5c-b241-6b61c1e3cd95)
+
 
 
 # Features 
